@@ -1,0 +1,30 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+    background-color: rgb(105, 105, 105);
+    color: azure;
+    
+}
+
+#Header {
+        position:fixed;
+        margin-left:  40%;
+        text-align: center;
+        background-color:blue;
+        color:orange;
+        width: 500px;    
+    }
+
+#overview {
+        border: solid rgb(0, 0, 0) 5px;
+        padding: 5px 10px;
+        width: 200px;
+        background-image: "octane.jfif";
+}
+
+#updates {
+        width:50%;
+}
+.links {
+        color: black;
+}
